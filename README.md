@@ -1,7 +1,7 @@
 <div align="left">
 
  <div align="center">
-  <img src="https://github.com/palomavila/ignews/blob/main/public/github/ig-news.png" title="Logo"
+  <img src="https://github.com/palomavila/ig-news/blob/main/public/ig-news.png" title="Logo"
                                                                                              
 <div align="left">
 
